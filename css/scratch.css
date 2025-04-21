@@ -1,0 +1,14 @@
+body{
+    background-color:whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+p{
+    font-weight: bold;
+    color:darkslategray;
+    font-style: italic;
+}
+h1{
+    font-weight: bold;
+    font-size: 50px;
+    color: cornflowerblue;
+}
